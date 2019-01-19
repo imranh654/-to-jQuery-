@@ -1,1 +1,1 @@
-# -to-jQuery-
+# Dollar-to-jQuery-WordPress
